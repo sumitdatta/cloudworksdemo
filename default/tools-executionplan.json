@@ -1,19 +1,37 @@
 {
-  "provisionTools" : {
-    "istio" : {
-      "config-type" : "default"
-	},
-    "grafana" : {
-      "config-type" : "default"
-    },
-    "prometheus" : {
-      "config-type" : "default"
-    },
-    "jaeger" : {
-      "config-type" : "default"
-    },
-	"dashboard" : {
-	  "config-type" : "default"
+	"provisionTools": {
+		"istio": {
+			"config-type": "default"
+		},
+		"grafana": {
+			"config-type": "default"
+		},
+		"prometheus": {
+			"config-type": "default"
+		},
+		"jaeger": {
+			"config-type": "default"
+		},
+		"kiali": {
+			"config-type": "default"
+		},
+		"dashboard": {
+			"config-type": "default"
+		},
+		"registry": {
+			"config-type": "default"
+		},
+		"kubeless": {
+			"config-type": "default"
+		},
+		"redis": {
+			"config-type": "default"
+		},
+		"elk": {
+			"config-type": "default"
+		},
+		"curator": {
+			"config-type": "default"
+		}
 	}
-  }
 }
