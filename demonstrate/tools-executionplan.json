@@ -1,0 +1,10 @@
+{
+  "provisionTools" : {
+    "istio" : {
+      "config-type" : "default"
+	},
+    "grafana" : {
+      "config-type" : "default"
+    }
+  }
+}
