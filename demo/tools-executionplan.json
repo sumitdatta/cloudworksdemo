@@ -32,6 +32,12 @@
 		},
 		"mysql": {
 			"config-type": "default"
+		},
+		"kafka": {
+			"config-type": "default"
+		},
+		"mongodb": {
+			"config-type": "default"
 		}
 	}
 }
