@@ -24,7 +24,7 @@
 		"redis": {
 			"config-type": "default"
 		},
-		"elk": {
+		"efk": {
 			"config-type": "default"
 		},
 		"curator": {
