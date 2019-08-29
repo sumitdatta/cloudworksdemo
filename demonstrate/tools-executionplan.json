@@ -5,6 +5,12 @@
 	},
     "grafana" : {
       "config-type" : "default"
+    },
+    "redis" : {
+      "config-type" : "default"
+    },
+    "efk" : {
+      "config-type" : "default"
     }
   }
 }
