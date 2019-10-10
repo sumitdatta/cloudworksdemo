@@ -18,9 +18,6 @@
 		"dashboard": {
 			"config-type": "default"
 		},
-		"registry": {
-			"config-type": "default"
-		},
 		"kubeless": {
 			"config-type": "default"
 		},
@@ -31,6 +28,15 @@
 			"config-type": "default"
 		},
 		"curator": {
+			"config-type": "default"
+		},
+		"mysql": {
+			"config-type": "default"
+		},
+		"kafka": {
+			"config-type": "default"
+		},
+		"mongodb": {
 			"config-type": "default"
 		}
 	}
