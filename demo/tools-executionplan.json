@@ -17,6 +17,27 @@
 		},
 		"dashboard": {
 			"config-type": "default"
+		},
+		"kubeless": {
+			"config-type": "default"
+		},
+		"redis": {
+			"config-type": "default"
+		},
+		"efk": {
+			"config-type": "default"
+		},
+		"curator": {
+			"config-type": "default"
+		},
+		"mysql": {
+			"config-type": "default"
+		},
+		"kafka": {
+			"config-type": "default"
+		},
+		"mongodb": {
+			"config-type": "default"
 		}
 	}
 }
