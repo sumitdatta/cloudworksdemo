@@ -9,7 +9,7 @@
     "redis" : {
       "config-type" : "default"
     },
-    "efk" : {
+    "elk" : {
       "config-type" : "default"
     }
   }
