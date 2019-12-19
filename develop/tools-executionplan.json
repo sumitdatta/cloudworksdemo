@@ -1,0 +1,22 @@
+{
+	"provisionTools": {
+		"istio": {
+			"config-type": "default"
+		},
+		"grafana": {
+			"config-type": "default"
+		},
+		"prometheus": {
+			"config-type": "default"
+		},
+		"jaeger": {
+			"config-type": "default"
+		},
+		"kiali": {
+			"config-type": "default"
+		},
+		"dashboard": {
+			"config-type": "default"
+		}
+	}
+}
