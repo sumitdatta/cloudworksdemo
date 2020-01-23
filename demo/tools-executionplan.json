@@ -17,15 +17,6 @@
 		},
 		"dashboard": {
 			"config-type": "default"
-		},
-		"elk": {
-			"config-type": "default"
-		},
-		"mysql": {
-			"config-type": "default"
-		},
-		"kafka": {
-			"config-type": "default"
 		}
 	}
 }
