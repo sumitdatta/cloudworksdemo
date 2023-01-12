@@ -9,10 +9,10 @@
 		"prometheus": {
 			"config-type": "default"
 		},
-		"jaeger": {
+		"kiali": {
 			"config-type": "default"
 		},
-		"kiali": {
+		"jaeger": {
 			"config-type": "default"
 		},
 		"zipkin": {
