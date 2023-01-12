@@ -15,28 +15,7 @@
 		"kiali": {
 			"config-type": "default"
 		},
-		"dashboard": {
-			"config-type": "default"
-		},
-		"kubeless": {
-			"config-type": "default"
-		},
-		"redis": {
-			"config-type": "default"
-		},
-		"elk": {
-			"config-type": "default"
-		},
-		"curator": {
-			"config-type": "default"
-		},
-		"mysql": {
-			"config-type": "default"
-		},
-		"kafka": {
-			"config-type": "default"
-		},
-		"mongodb": {
+		"zipkin": {
 			"config-type": "default"
 		}
 	}
