@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: "{{ include "prodorchestrator.fullname" . }}-test-connection"
+  labels:
+    {{- include "prodorchestrator.labels" . | nindent 4 }}
+  annotations:
+    "helm.sh/hook": test
+spec:
+  containers:
+    - name: wget
+      image: busybox
+      command: ['wget']
+      args: ['{{ include "prodorchestrator.fullname" . }}:{{ .Values.service.port }}']
+  restartPolicy: Never
